@@ -1,6 +1,5 @@
-![Grocery list manager](https://user-images.githubusercontent.com/46238682/54640481-211d0d00-4a4d-11e9-8acc-7ddc4907c949.png)
-
 # AngularGrocery
+![Grocery list manager](https://user-images.githubusercontent.com/46238682/54640481-211d0d00-4a4d-11e9-8acc-7ddc4907c949.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
